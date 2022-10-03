@@ -15,3 +15,21 @@ i {
 .form-control.shadow-0:focus {
   box-shadow: none;
 }
+.episode-images{
+  margin-top: 17px;
+  margin-right: 12px;
+  border-radius: 9px;
+  box-shadow: 3px 3px 7px rgb(122, 119, 119);
+}
+
+.cast-img-small{
+  margin-right: 10px;
+  border-radius: 12px;
+  box-shadow: 3px 3px 5px black;
+}
+.cast-img-small:hover{
+  transform: scale(1.03);
+}
+.cast-head{
+  font-size: 1.7rem;
+}
