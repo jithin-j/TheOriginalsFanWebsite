@@ -33,3 +33,10 @@ i {
 .cast-head{
   font-size: 1.7rem;
 }
+
+@media (max-width: 768px) {
+  .media {
+    display: flex;
+    flex-direction: column;
+  }
+}
